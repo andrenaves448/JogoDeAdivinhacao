@@ -30,5 +30,4 @@ Ao acertar, o jogo mostra o número correto e a quantidade de tentativas feitas.
 3. Abra o terminal na pasta desejada e execute:
 
 ```bash
-[git clone https://github.com/seu-usuario/jogo-numero-secreto.git
-cd jogo-numero-secreto](https://github.com/andrenaves448/JogoDeAdivinhacao.git)
+https://github.com/andrenaves448/JogoDeAdivinhacao.git)](https://github.com/andrenaves448/JogoDeAdivinhacao.git
