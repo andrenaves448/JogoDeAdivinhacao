@@ -1,6 +1,6 @@
 # 🎯 Jogo do Número Secreto
 
-Este é um projeto simples de um jogo feito com **HTML**, **CSS** e **JavaScript**, ideal para quem está começando no mundo da programação.
+Este é um projeto simples de um jogo com objetivo de aprender lógica de programação utilizando  **JavaScript** disponibilizado pela alura ideal para quem está começando no mundo da programação.
 
 ## 📌 Descrição
 
